@@ -10,7 +10,9 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on [CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon) – a platform designed to revolutionize campus connectivity by enabling students, faculty, and alumni to seamlessly share updates, events, and resources.
+- 🔭 I'm currently working on:
+  - [CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon) – a platform designed to revolutionize campus connectivity by enabling students, faculty, and alumni to seamlessly share updates, events, and resources.
+  - [UrlShortner](https://github.com/ayush-jadaun/urlShortners) - A modern URL shortener service with a robust system design featuring distributed caching, rate limiting, and SHA-3 (Keccak) based quantum-resistant hash algorithm for secure URL generation.
 
 - 🌱 I'm currently learning **Full Stack Development, Blockchain, Machine Learning**
 
@@ -69,6 +71,7 @@
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -87,6 +90,8 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
 ### 🎨 Design & Other
@@ -103,6 +108,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&locale=en" alt="ayush-jadaun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-jadaun&" alt="ayush-jadaun" /></p>
+
+## 🏗️ Project Spotlights
+
+### UrlShortener
+A modern URL shortener service with advanced system design features:
+
+- **Robust Architecture:** Microservices-based design for scalability and resilience
+- **Security:** Implements SHA-3 (Keccak) quantum-resistant hashing algorithm for URL generation
+- **Performance:**
+  - Multi-level caching system (Redis + in-memory) for ultra-fast URL resolution
+  - Distributed database architecture with read replicas for high throughput
+- **Reliability:**
+  - Rate limiting and request throttling to prevent abuse
+  - Circuit breaker pattern for graceful degradation
+- **Scalability:** Horizontal scaling with load balancing for handling millions of requests
+- **Analytics:** Real-time click tracking and visualization dashboard
+- **Tech Stack:** Node.js, Redis, PostgreSQL, Docker, Kubernetes
 
 ---
 
