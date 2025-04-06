@@ -23,7 +23,7 @@
     -   Building robust backends & interactive frontends (**Full Stack Development**).
     -   Exploring decentralized applications (dApps) and smart contracts (**Blockchain**).
     *   Applying ML models to solve real-world problems & analyzing data (**Machine Learning**).
--   🎯 Actively seeking **[Internship/Full-Time/Collaboration - specify if applicable]** opportunities in software development, particularly in roles involving Full Stack, AI/ML.
+-   🎯 Actively seeking **[Internship/Full-Time/Collaboration]** opportunities in software development, particularly in roles involving Full Stack, AI/ML.
 -   💡 Fun fact: I believe the best solutions often come from the intersection of different disciplines.
 -   📫 How to reach me: **ayushjadaun6@gmail.com**
 
