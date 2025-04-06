@@ -1,131 +1,240 @@
 # <div align="center">👋 Hello World, I'm Ayush Jadaun</div>
 
 <div align="center">
-  <h3>I'm a passionate Full Stack Developer who's always exploring new technologies. I'm diving deep into blockchain technology and modern web/app development, while continuously sharpening my competitive programming, data structures & algorithms skills, and machine learning expertise. I thrive on innovation and collaboration—let's build the future together!</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6¢er=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Machine+Learning+Explorer;Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jadaun&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-jadaun" /> </p>
+<div align="center">
+  <h3>Driven by innovation and collaboration, I'm a passionate Full Stack Developer constantly exploring the frontiers of technology. I'm diving deep into blockchain ecosystems and modern web/app development frameworks, while continuously sharpening my competitive programming (Data Structures & Algorithms) and Machine Learning expertise. I thrive on building impactful solutions and working with teams to bring ideas to life. Let's build the future together!</h3>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-jadaun" alt="ayush-jadaun" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jadaun&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayush-jadaun Profile Views" /> </p>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-jadaun&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
+</div>
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on:
-  - [CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon) – a platform designed to revolutionize campus connectivity by enabling students, faculty, and alumni to seamlessly share updates, events, and resources.
-  - [UrlShortner](https://github.com/ayush-jadaun/urlShortners) - A modern URL shortener service with a robust system design featuring distributed caching, rate limiting, and SHA-3 (Keccak) based quantum-resistant hash algorithm for secure URL generation.
+<img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
 
-- 🌱 I'm currently learning **Full Stack Development, Blockchain, Machine Learning**
+-   🔭 I'm currently building **[CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon)** – aiming to revolutionize campus connectivity. (See Project Spotlights below!)
+-   🌱 I'm deepening my understanding by:
+    -   Building robust backends & interactive frontends (**Full Stack Development**).
+    -   Exploring decentralized applications (dApps) and smart contracts (**Blockchain**).
+    *   Applying ML models to solve real-world problems & analyzing data (**Machine Learning**).
+-   🎯 Actively seeking **[Internship/Full-Time/Collaboration - specify if applicable]** opportunities in software development, particularly in roles involving Full Stack, AI/ML.
+-   💡 Fun fact: I believe the best solutions often come from the intersection of different disciplines.
+-   📫 How to reach me: **ayushjadaun6@gmail.com**
 
-- 📫 How to reach me **ayushjadaun6@gmail.com**
+## 🏆 Achievements & Certifications
 
-## 🤝 Connect with me:
+<details>
+  <summary>Click to expand</summary>
 
-<p align="left">
-<a href="https://linkedin.com/in/ayush-jadaun-677199311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jadaun-677199311" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_jadaun" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush_jadaun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushthegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushthegod" height="30" width="40" /></a>
-</p>
+  ### Hackathons & Competitions
+  -   🥇 **Winner**, AIML Hackathon under Culrav/Avishkar at MNNIT Allahabad 2024
+  -   🥈 **Runner-up**, Quinthalon - Mock Interview Process
+  -   🏆 **Second Runner-up**, DEVJAM under Weekend of code, MNNIT Allahabad
+</details>
+
+## 🚀 Core Skills & Proficiency
+
+<div align="center">
+
+  <!-- Primary Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,java,rust" alt="Primary Skills" /><br/>
+  <!-- Add more rows or specific categories if needed -->
+  <img src="https://skillicons.dev/icons?i=docker,git,redis,html,css,tailwindcss,redux,pytorch,tensorflow" alt="Secondary Skills & Tools"/>
+  </div>
 
 ## 🛠️ Languages and Tools:
 
+<details>
+<summary><b>Click to expand detailed Technology Stack</b></summary>
+
 ### 🔤 Programming Languages
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40" />
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/></a>
 </p>
 
 ### 🌐 Frontend Development
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></a>
 </p>
 
 ### 🔙 Backend Development
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs_backend" width="40" height="40"/></a> <!-- Listed again as it handles backend logic -->
+<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/></a>
 </p>
 
 ### 📱 Mobile App Development
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a> <!-- Using Android Studio icon -->
 </p>
 
-### 💾 Database
+### 💾 Databases & Storage
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/></a> <!-- Added Supabase -->
 </p>
 
 ### 🤖 AI & Machine Learning
 <p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="numpy" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a>
 </p>
 
-### 🛠️ DevOps & Tools
+### ☁️ DevOps & Tools
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
 </p>
 
 ### 🎨 Design & Other
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
 </p>
+</details>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-jadaun&show_icons=true&locale=en&layout=compact" alt="ayush-jadaun" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&locale=en" alt="ayush-jadaun" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-jadaun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-jadaun&" alt="ayush-jadaun" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-jadaun&theme=tokyonight" alt="GitHub Streak Stats" />
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-jadaun&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
+</div>
 
 ## 🏗️ Project Spotlights
 
-### UrlShortener
-A modern URL shortener service with advanced system design features:
+<details open>
+<summary><b>🌟 CampusBeacon - Unified Campus Experience Platform</b></summary>
 
-- **Robust Architecture:** Microservices-based design for scalability and resilience
-- **Security:** Implements SHA-3 (Keccak) quantum-resistant hashing algorithm for URL generation
-- **Performance:**
-  - Multi-level caching system (Redis + in-memory) for ultra-fast URL resolution
-  - Distributed database architecture with read replicas for high throughput
-- **Reliability:**
-  - Rate limiting and request throttling to prevent abuse
-  - Circuit breaker pattern for graceful degradation
-- **Scalability:** Horizontal scaling with load balancing for handling millions of requests
-- **Analytics:** Real-time click tracking and visualization dashboard
-- **Tech Stack:** Node.js, Redis, PostgreSQL, Docker, Kubernetes
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/CampusBeacon/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="CampusBeacon Socialify Banner" width="640" />
+  <br/>
+  <!-- Placeholder Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgres,supabase,tailwind" alt="CampusBeacon Tech Stack" />
+</div>
+
+**CampusBeacon** aims to be the central hub for campus life, connecting students, faculty, and alumni seamlessly.
+
+-   **Core Features:**
+    -   📢 **Real-time Announcements & Event Feeds:** Stay updated with live notifications for campus news, events, workshops, and deadlines.
+    -   📚 **Resource Sharing Hub:** Centralized access to notes, assignments, past papers, and project repositories shared by peers and faculty.
+    -   👥 **Club & Community Management:** Dedicated spaces for clubs and societies to manage members, post updates, and organize events.
+    -   💬 **Discussion Forums & Q&A:** Engage in academic or social discussions, ask questions, and share knowledge within the campus community.
+    -   (Potential: Lost & Found, Ride Sharing, Skill Exchange modules)
+-   **Goal:** To enhance collaboration, communication, and resource accessibility within the MNNIT Allahabad ecosystem (and potentially other institutions).
+-   **Tech Stack:** React, Node.js, Express.js, MongoDB, PostgreSQL, Supabase (for Auth/Realtime features), TailwindCSS, REST APIs.
+-   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/CampusBeacon) | `(https://campus-beacon.vercel.app)`
+
+</details>
+
+<details>
+<summary><b>🔗 UrlShortener - Advanced System Design</b></summary>
+
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/urlShortners/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="urlShortners Socialify Banner" width="640" />
+  <br/>
+  <!-- Placeholder Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,redis,typescript" alt="UrlShortener Tech Stack"/>
+</div>
+
+A modern URL shortener service demonstrating advanced system design principles for scalability and performance.
+
+-   **Key Features & Design:**
+    -   🛡️ **Quantum-Resistant Hashing:** Uses SHA-3 (Keccak) for secure and unique short URL generation.
+    -   ⚡ **High-Performance Caching:** Multi-level caching (Redis + In-Memory) ensures ultra-fast URL redirection.
+    -   📈 **Scalable Architecture:** Designed with principles like load balancing and read replicas (conceptual) for high throughput.
+    -   🚦 **Reliability Measures:** Implements Rate Limiting & Request Throttling to prevent abuse, plus Circuit Breaker patterns for fault tolerance.
+    -   📊 **Analytics Dashboard:** Tracks click-through rates and provides basic analytics on URL usage.
+-   **Tech Stack:** Node.js, TypeScript, MongoDB, Redis, Express.js.
+-   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/urlShortners) | `(https://url-shortners-seven.vercel.app)`
+
+</details>
+
+## 👋 Get In Touch & Let's Collaborate!
+
+<p align="center">
+I'm always excited to connect with fellow developers, designers, tech enthusiasts, and potential collaborators! <br/>
+Whether you want to discuss a project idea, talk tech (Web3, ML, System Design!), or just say hi, feel free to reach out.
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/ayush-jadaun-677199311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect on LinkedIn" height="30" width="40" /></a>   
+<a href="https://instagram.com/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Follow on Instagram" height="30" width="40" /></a>   
+<a href="https://codeforces.com/profile/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>   
+<a href="https://www.leetcode.com/ayushthegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>   
+<a href="https://dev.to/ayush_jadaun_9020dae4db68" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="DEV.to Profile" height="30" width="40" /></a> <!-- Updated Dev.to icon -->
+</p>
+<p align="center">
+📧 Or shoot me an email directly at: <strong>ayushjadaun6@gmail.com</strong>
+</p>
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=Ayush%20Jadaun&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0E75B6&bar_color_cover=true" alt="Spotify Now Playing" width="350"/>
+</div>
+
+## 🌐 Check out my 3D Contribution Graph (Skyline View)
+
+<div align="center">
+<a href="https://skyline.github.com/ayush-jadaun/2025" target="_blank"> 
+  <img src="https://img.shields.io/badge/GitHub_Skyline-View_My_2025_Contributions_in_3D-8A2BE2?style=for-the-badge&logo=github" alt="View my GitHub Skyline for 2024" />
+</a>
+</div>
 
 ---
 
 <div align="center">
-  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"eCategory=programming,computers" alt="Random Tech Quote" />
+</div>
+
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>  
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </div>
