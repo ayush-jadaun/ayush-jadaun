@@ -197,6 +197,58 @@ A modern URL shortener service demonstrating advanced system design principles f
 
 </details>
 
+<details>
+<summary><b>Advanced TicTacToe using MiniMaxAlgorithm</b></summary>
+
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/TicTacToe/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="urlShortners Socialify Banner" width="640" />
+  <br/>
+  <!-- Placeholder Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=c++" alt="UrlShortener Tech Stack"/>
+</div>
+
+## 🎮 Enhanced Tic-Tac-Toe — Feature-Rich C++ Game Engine
+
+A modern, scalable implementation of Tic-Tac-Toe in C++ showcasing advanced algorithms, flexible configurations, and smart AI mechanics.
+
+- **Key Features & Design:**
+  - 🔄 **Dynamic Game Engine:** Supports custom board sizes (`n x n`) and win conditions (`k-in-a-row`) for endless variations.
+  - 🧠 **AI With Depth:** Three difficulty levels using Random logic, Minimax, and Alpha-Beta Pruning. Includes an opening book for optimized 3x3 play.
+  - 👥 **Multiple Game Modes:** Play solo vs AI or challenge a friend in multiplayer mode.
+  - 💾 **Stateful Gameplay:** Save/load game sessions, undo last moves, and track scores across rounds.
+  - 🖥️ **Responsive CLI UI:** Auto-scaling terminal board display with input validation and user-friendly command system.
+
+- **Tech Stack:** C++ (STL, File I/O), Minimax Algorithm, Alpha-Beta Pruning  
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/TicTacToe) 
+
+
+</details>
+<details>
+<summary><b>ShortyQ — Quantum-Inspired Secure URL Shortener</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/ShortyQ/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="ShortyQ Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,postgresql,mongodb,redis" alt="ShortyQ Tech Stack"/>
+</div>
+
+## 🔒 ShortyQ — Quantum-Enhanced URL Shortening Library
+A modern, high-performance URL shortener package with quantum-inspired encryption for enhanced security and privacy protection.
+
+- **Key Features & Design:**
+  - 🔐 **Multi-Layer Security:** Implements quantum-inspired noise generation with triple-layer AES encryption for unmatched URL protection.
+  - ⚙️ **Highly Configurable:** Customizable URL length (4-100 chars), salt rounds, and quantum seed parameters for tailored security levels.
+  - 🔄 **Flexible Storage:** Works with any database system including PostgreSQL, MongoDB, and Redis with full TypeScript support.
+  - ⚡ **Performance Optimized:** Supports concurrent operations with minimal variance and excellent scalability for high-traffic scenarios.
+  - 🧪 **Production Ready:** Comprehensive test coverage (98%+) with robust error handling and sanitization for reliable implementation.
+  
+- **Tech Stack:** TypeScript, Node.js, AES Encryption, PBKDF2, SHA3
+- **Links:** [NPM Package](https://www.npmjs.com/package/shortyq) | [GitHub Repository](https://github.com/ayush-jadaun/ShortyQ)
+</details>
+
+
+
+
 ## 👋 Get In Touch & Let's Collaborate!
 
 <p align="center">
