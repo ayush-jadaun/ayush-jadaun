@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm Ayush Jadaun</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6¢er=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;Machine+Learning+Explorer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6¢er=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Machine+Learning+Explorer;Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -21,7 +21,6 @@
 -   🔭 I'm currently building **[CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon)** – aiming to revolutionize campus connectivity. (See Project Spotlights below!)
 -   🌱 I'm deepening my understanding by:
     -   Building robust backends & interactive frontends (**Full Stack Development**).
-    -   Exploring decentralized applications (dApps) and smart contracts (**Blockchain**).
     *   Applying ML models to solve real-world problems & analyzing data (**Machine Learning**).
 -   🎯 Actively seeking **[Internship/Full-Time/Collaboration]** opportunities in software development, particularly in roles involving Full Stack, AI/ML.
 -   💡 Fun fact: I believe the best solutions often come from the intersection of different disciplines.
@@ -80,8 +79,7 @@
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs_backend" width="40" height="40"/></a> <!-- Listed again as it handles backend logic -->
-<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs_backend" width="40" height="40"/></a>
 </p>
 
 ### 📱 Mobile App Development
@@ -198,7 +196,7 @@ A modern URL shortener service demonstrating advanced system design principles f
 </details>
 
 <details>
-<summary><b>Advanced TicTacToe using MiniMaxAlgorithm</b></summary>
+<summary><b> 🎮 Advanced TicTacToe using MiniMaxAlgorithm</b></summary>
 
 <div align="center">
   <img src="https://socialify.git.ci/ayush-jadaun/TicTacToe/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="urlShortners Socialify Banner" width="640" />
@@ -207,7 +205,7 @@ A modern URL shortener service demonstrating advanced system design principles f
   <img src="https://skillicons.dev/icons?i=c++" alt="UrlShortener Tech Stack"/>
 </div>
 
-## 🎮 Enhanced Tic-Tac-Toe — Feature-Rich C++ Game Engine
+##  🎮 Enhanced Tic-Tac-Toe — Feature-Rich C++ Game Engine
 
 A modern, scalable implementation of Tic-Tac-Toe in C++ showcasing advanced algorithms, flexible configurations, and smart AI mechanics.
 
@@ -224,7 +222,7 @@ A modern, scalable implementation of Tic-Tac-Toe in C++ showcasing advanced algo
 
 </details>
 <details>
-<summary><b>ShortyQ — Quantum-Inspired Secure URL Shortener</b></summary>
+<summary><b> 🔐 ShortyQ — Quantum-Inspired Secure URL Shortener</b></summary>
 <div align="center">
   <img src="https://socialify.git.ci/ayush-jadaun/ShortyQ/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="ShortyQ Socialify Banner" width="640" />
   <br/>
