@@ -165,7 +165,7 @@
     -   📚 **Resource Sharing Hub:** Centralized access to notes, assignments, past papers, and project repositories shared by peers and faculty.
     -   👥 **Club & Community Management:** Dedicated spaces for clubs and societies to manage members, post updates, and organize events.
     -   💬 **Discussion Forums & Q&A:** Engage in academic or social discussions, ask questions, and share knowledge within the campus community.
-    -   (Potential: Lost & Found, Ride Sharing, Skill Exchange modules)
+    -   Lost & Found, Ride Sharing, Buy And Sell and a lots more to come!
 -   **Goal:** To enhance collaboration, communication, and resource accessibility within the MNNIT Allahabad ecosystem (and potentially other institutions).
 -   **Tech Stack:** React, Node.js, Express.js, MongoDB, PostgreSQL, Supabase (for Auth/Realtime features), TailwindCSS, REST APIs.
 -   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/CampusBeacon) | `(https://campus-beacon.vercel.app)`
