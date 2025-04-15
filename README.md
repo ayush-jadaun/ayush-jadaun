@@ -216,7 +216,7 @@ A modern, scalable implementation of Tic-Tac-Toe in C++ showcasing advanced algo
   - 💾 **Stateful Gameplay:** Save/load game sessions, undo last moves, and track scores across rounds.
   - 🖥️ **Responsive CLI UI:** Auto-scaling terminal board display with input validation and user-friendly command system.
 
-- **Tech Stack:** C++ (STL, File I/O), Minimax Algorithm, Alpha-Beta Pruning  
+- **Tech Stack:** C++ (STL,File I/O), Minimax Algorithm, Alpha-Beta Pruning  
 - **Links:** [GitHub Repository](https://github.com/ayush-jadaun/TicTacToe) 
 
 
