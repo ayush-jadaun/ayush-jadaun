@@ -1,7 +1,11 @@
 # <div align="center">👋 Hello World, I'm Ayush Jadaun</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6¢er=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Machine+Learning+Explorer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Machine+Learning+Explorer;Problem+Solver;Competitive+Programmer" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="350"/>
 </div>
 
 <div align="center">
@@ -16,7 +20,7 @@
 
 ## 💫 About Me
 
-<img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
+<img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
 
 -   🔭 I'm currently building **[CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon)** – aiming to revolutionize campus connectivity. (See Project Spotlights below!)
 -   🌱 I'm deepening my understanding by:
@@ -24,6 +28,8 @@
     *   Applying ML models to solve real-world problems & analyzing data (**Machine Learning**).
 -   🎯 Actively seeking **[Internship/Full-Time/Collaboration]** opportunities in software development, particularly in roles involving Full Stack, AI/ML.
 -   💡 Fun fact: I believe the best solutions often come from the intersection of different disciplines.
+-   ⚡ Quick learner who adapts to new technologies with enthusiasm and precision.
+-   🧩 Love solving complex problems with elegant, efficient solutions.
 -   📫 How to reach me: **ayushjadaun6@gmail.com**
 
 ## 🏆 Achievements & Certifications
@@ -40,12 +46,15 @@
 ## 🚀 Core Skills & Proficiency
 
 <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Skills" width="300"/>
+</div>
 
+<div align="center">
   <!-- Primary Skill Icons -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,java,rust" alt="Primary Skills" /><br/>
   <!-- Add more rows or specific categories if needed -->
   <img src="https://skillicons.dev/icons?i=docker,git,redis,html,css,tailwindcss,redux,pytorch,tensorflow" alt="Secondary Skills & Tools"/>
-  </div>
+</div>
 
 ## 🛠️ Languages and Tools:
 
@@ -136,14 +145,26 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-jadaun&theme=tokyonight" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=Current%20Streak" alt="GitHub Streak (alt)" />
 
+
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-jadaun&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Together" width="400"/>
 </div>
 
 ## 🏗️ Project Spotlights
@@ -244,47 +265,52 @@ A modern, high-performance URL shortener package with quantum-inspired encryptio
 - **Links:** [NPM Package](https://www.npmjs.com/package/shortyq) | [GitHub Repository](https://github.com/ayush-jadaun/ShortyQ)
 </details>
 
+## 👨‍💻 Coding Metrics
 
+<div align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coding Metrics" width="300"/>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-jadaun&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-jadaun&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-jadaun&theme=tokyonight" alt="Repos per Language" />
+</div>
 
 ## 👋 Get In Touch & Let's Collaborate!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Let's Connect" width="300"/>
+</div>
 
 <p align="center">
 I'm always excited to connect with fellow developers, designers, tech enthusiasts, and potential collaborators! <br/>
 Whether you want to discuss a project idea, talk tech (Web3, ML, System Design!), or just say hi, feel free to reach out.
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/ayush-jadaun-677199311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect on LinkedIn" height="30" width="40" /></a>   
-<a href="https://instagram.com/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Follow on Instagram" height="30" width="40" /></a>   
-<a href="https://codeforces.com/profile/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>   
-<a href="https://www.leetcode.com/ayushthegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>   
-<a href="https://dev.to/ayush_jadaun_9020dae4db68" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="DEV.to Profile" height="30" width="40" /></a> <!-- Updated Dev.to icon -->
+<a href="https://linkedin.com/in/ayush-jadaun-677199311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect on LinkedIn" height="30" width="40" /></a>   
+<a href="https://instagram.com/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Follow on Instagram" height="30" width="40" /></a>   
+<a href="https://codeforces.com/profile/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>   
+<a href="https://www.leetcode.com/ayushthegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>   
+<a href="https://dev.to/ayush_jadaun_9020dae4db68" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="DEV.to Profile" height="30" width="40" /></a>
+<a href="https://twitter.com/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" /></a>
 </p>
 <p align="center">
 📧 Or shoot me an email directly at: <strong>ayushjadaun6@gmail.com</strong>
 </p>
 
-## 🎵 Currently Vibing To
 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=Ayush%20Jadaun&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0E75B6&bar_color_cover=true" alt="Spotify Now Playing" width="350"/>
-</div>
-
-## 🌐 Check out my 3D Contribution Graph (Skyline View)
-
-<div align="center">
-<a href="https://skyline.github.com/ayush-jadaun/2025" target="_blank"> 
-  <img src="https://img.shields.io/badge/GitHub_Skyline-View_My_2025_Contributions_in_3D-8A2BE2?style=for-the-badge&logo=github" alt="View my GitHub Skyline for 2024" />
-</a>
-</div>
 
 ---
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"eCategory=programming,computers" alt="Random Tech Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Tech Quote" />
 </div>
 
 <div align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>  
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>  
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </div>
