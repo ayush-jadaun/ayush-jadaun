@@ -14,6 +14,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jadaun&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayush-jadaun Profile Views" /> </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</picture>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-jadaun&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
 </div>
@@ -149,12 +155,6 @@
 
 
 
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 📈 Activity Graph
