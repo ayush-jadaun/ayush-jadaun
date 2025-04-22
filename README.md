@@ -12,6 +12,8 @@
   <h3>Driven by innovation and collaboration, I'm a passionate Full Stack Developer constantly exploring the frontiers of technology. I'm diving deep into blockchain ecosystems and modern web/app development frameworks, while continuously sharpening my competitive programming (Data Structures & Algorithms) and Machine Learning expertise. I thrive on building impactful solutions and working with teams to bring ideas to life. Let's build the future together!</h3>
 </div>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jadaun&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayush-jadaun Profile Views" /> </p>
 
 
@@ -189,7 +191,7 @@
     -   Lost & Found, Ride Sharing, Buy And Sell and a lots more to come!
 -   **Goal:** To enhance collaboration, communication, and resource accessibility within the MNNIT Allahabad ecosystem (and potentially other institutions).
 -   **Tech Stack:** React, Node.js, Express.js, MongoDB, PostgreSQL, Supabase (for Auth/Realtime features), TailwindCSS, REST APIs.
--   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/CampusBeacon) | `(https://campus-beacon.vercel.app)`
+-   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/CampusBeacon) | [Live Website](https://campus-beacon.vercel.app)
 
 </details>
 
