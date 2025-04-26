@@ -153,7 +153,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_rank=false" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-jadaun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=Current%20Streak" alt="GitHub Streak (alt)" />
 
 
 
