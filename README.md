@@ -47,10 +47,11 @@
 
   ### Hackathons & Competitions
   -   🥇 **Winner**, AIML Hackathon under Culrav/Avishkar at MNNIT Allahabad 2024
-  -   🥇 **Winner**, Hactivate, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHBAD 2025
-  -   🥇 **Winner**, Robowars, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHBAD 2025
-  -   🥈 **Runner-up**, Quinthalon - Mock Interview Process
-  -   🏆 **Second Runner-up**, DEVJAM under Weekend of code, MNNIT Allahabad
+  -   🥇 **Winner**, Hactivate, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHABAD 2025
+  -   🥇 **Winner**, Galactic Heist, under Botrush 3.0 conducted by  Astronomy Club MNNIT ALLAHABAD 2025
+  -   🥇 **Winner**, Robowars, under Botrush 3.0 conducted by  Robotics Club MNNIT ALLAHABAD 2025
+  -   🥈 **Runner-up**, Quinthalon - Mock Interview Process conducted by ES Society MNNIT ALLAHABAD 2024
+  -   🏆 **Second Runner-up**, DEVJAM under Weekend of code, MNNIT Allahabad 2025
 </details>
 
 ## 🚀 Core Skills & Proficiency
