@@ -268,6 +268,100 @@ A modern, high-performance URL shortener package with quantum-inspired encryptio
 - **Links:** [NPM Package](https://www.npmjs.com/package/shortyq) | [GitHub Repository](https://github.com/ayush-jadaun/ShortyQ)
 </details>
 
+<details>
+<summary><b> 🧹 AllProfanity — Advanced Multi-Language Profanity Filter</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/AllProfanity/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="AllProfanity Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=ts,nodejs" alt="AllProfanity Tech Stack"/>
+</div>
+
+## 🧹 AllProfanity — Comprehensive Multi-Language Profanity Detection Library
+
+A powerful, flexible profanity filter for modern JavaScript and TypeScript applications, supporting multiple languages and scripts out-of-the-box.
+
+- **Key Features & Design:**
+  - 🌎 **Multi-Language Support:** Detects profanity in English, Hindi, Hinglish, Bengali, Tamil, Telugu, French, German, and Spanish.
+  - 🧠 **Multiple Scripts:** Works seamlessly with Latin/Roman and native scripts (Devanagari, Bengali, Tamil, Telugu).
+  - 🧹 **Flexible Cleaning Options:** Supports character-level or word-level placeholder replacement for detected profanities.
+  - ✏️ **Customizable Filters:** Dynamically add, remove, and modify words, and set custom placeholders.
+  - ⚡ **High Performance:** Optimized for large-scale content filtering with minimal overhead.
+  - 🛡️ **Zero Dependencies:** Only uses leo-profanity as a base, ensuring a lightweight package.
+  - 🛠️ **TypeScript Native:** Built with TypeScript, providing full type safety and IntelliSense support.
+  - 🔮 **Extensible Architecture:** Easily extend to new languages or custom detection methods.
+
+- **Tech Stack:** TypeScript, Node.js, Regular Expressions
+- **Links:** [NPM Package](https://www.npmjs.com/package/allprofanity) | [GitHub Repository](https://github.com/ayush-jadaun/allprofanity)
+</details>
+
+<details>
+<summary><b> 🎭 EchoHeist — Professor's Sentiment Surveillance System</b></summary>
+
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/EchoHeist/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark" alt="EchoHeist Socialify Banner" width="640" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,streamlit" alt="EchoHeist Tech Stack"/>
+</div>
+
+## 🎭 EchoHeist — Real-Time Voice Sentiment Analysis with Money Heist Theme
+
+An interactive, deep learning-based sentiment analysis system inspired by the "Money Heist" series, built for BotRush 3.0 to detect emotional states from voice recordings in real-time.
+
+- **Key Features & Design:**
+  - 🎙️ **Surveillance Records:** Upload and analyze pre-recorded audio files (.wav, .mpeg, .amr) for emotion detection.
+  - ⚡ **Quick Interrogation:** Record 7-second voice samples on the fly for immediate emotion classification.
+  - 🛰️ **Live Monitoring:** Continuously capture and process microphone audio to track emotional trends in real-time.
+  - 🧠 **Deep Learning Models:** Custom CNN trained on MFCC and mel-spectrogram features for high-accuracy emotion recognition.
+  - 🔄 **Threaded Audio Processing:** Implements threading for smooth, responsive real-time monitoring without UI lag.
+  - 📊 **Dynamic Visualizations:** Real-time updating of waveforms, MFCCs, mel-spectrograms, and emotional trend graphs.
+  - 🚨 **Alert System:** Instantly flags distress or unstable emotional states during live monitoring sessions.
+  - 🎨 **Themed UI:** Built with Streamlit, featuring a custom Money Heist-inspired visual design and user flow.
+
+- **Tech Stack:** Python, TensorFlow, Streamlit, Librosa, SoundDevice
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/EchoHeist)
+
+</details>
+
+<details>
+<summary><b> 🌍 Project ULTRON — Environmental Monitoring & Alert System</b></summary>
+
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/ProjectULTRON/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark" alt="Project ULTRON Socialify Banner" width="640" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,earthengine,react" alt="Project ULTRON Tech Stack"/>
+</div>
+
+## 🌍 Project ULTRON — Satellite-Powered Environmental Change Detection Platform
+
+An intelligent, full-stack environmental monitoring system built for Hack36 under the mentorship of the Computer Coding Club, MNNIT. Project ULTRON empowers users to track ecological changes in real time and receive early warnings about potential environmental threats.
+
+- **Key Features & Design:**
+  - 🗺️ **Custom Area Selection:** Users can log in and draw any custom-shaped region on the map to monitor.
+  - 📬 **Environmental Alerts:** Subscribe to receive notifications for:
+    - 🌳 Deforestation
+    - ❄️ Glacier Melting
+    - 🔥 Fires
+    - 🌊 Coastal Erosion
+    - 🌧️ Flooding
+  - 🛰️ **Google Earth Engine Integration:** Real-time satellite data analysis with indices like NDVI, NDWI, etc.
+  - ⚡ **High-Performance Backend:** Direct execution of Python scripts from the JavaScript backend via `child_process`, avoiding Flask HTTP overhead.
+  - 📚 **Resource Center:** Guides users with best practices during ecological emergencies.
+  - 📈 **History Page:** Explore how selected regions have changed over time — perfect for NGOs, researchers, and environmentalists.
+  - 🚀 **Space Trackers:** Live position trackers for the International Space Station (ISS) and Hubble Space Telescope.
+  - 🛠️ **Analysis Dashboard:** Full CRUD functionality for managing subscriptions, alerts, and historical insights.
+
+- **Tech Stack:** Node.js, Express.js, React.js, Google Earth Engine (Python API), Tailwind CSS
+
+- **Links:**
+  - 🌐 [Live Demo](https://lnkd.in/e8KCN5vQ)
+  - 🎥 [Demo Video](https://lnkd.in/eJ4XEzgb)
+  - 🛠️ [GitHub Repository](https://github.com/ayush-jadaun/ProjectULTRON)
+
+</details>
+
+
+
 ## 👨‍💻 Coding Metrics
 
 <div align="center">
@@ -299,7 +393,6 @@ Whether you want to discuss a project idea, talk tech (Web3, ML, System Design!)
 <a href="https://codeforces.com/profile/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" /></a>   
 <a href="https://www.leetcode.com/ayushthegod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>   
 <a href="https://dev.to/ayush_jadaun_9020dae4db68" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="DEV.to Profile" height="30" width="40" /></a>
-<a href="https://twitter.com/ayush_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" /></a>
 </p>
 <p align="center">
 📧 Or shoot me an email directly at: <strong>ayushjadaun6@gmail.com</strong>
