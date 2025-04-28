@@ -216,7 +216,7 @@ A modern URL shortener service demonstrating advanced system design principles f
     -   🚦 **Reliability Measures:** Implements Rate Limiting & Request Throttling to prevent abuse, plus Circuit Breaker patterns for fault tolerance.
     -   📊 **Analytics Dashboard:** Tracks click-through rates and provides basic analytics on URL usage.
 -   **Tech Stack:** Node.js, TypeScript, MongoDB, Redis, Express.js.
--   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/urlShortners) | `(https://url-shortners-seven.vercel.app)`
+-   **Links:** [GitHub Repository](https://github.com/ayush-jadaun/urlShortners) | [Live Website](https://url-shortners-seven.vercel.app)
 
 </details>
 
@@ -360,7 +360,7 @@ A performance-optimized media gallery showcasing Holi celebration memories with 
   - ⚡ **Performance Optimized:** Memoized components and optimized callbacks ensuring smooth interactions even with heavy media content.
   
 - **Tech Stack:** React, Framer Motion, Canvas Confetti, React Icons
-- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/holi) | [Live Demo](https://holi-black.vercel.app) | [Documentation](https://github.com/ayush-jadaun/holi#readme)
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/holi) | [Live Website](https://holi-black.vercel.app) | [Documentation](https://github.com/ayush-jadaun/holi#readme)
 </details>
 
 <details>
@@ -472,7 +472,7 @@ An intelligent, full-stack environmental monitoring system built for Hack36 unde
 - **Tech Stack:** Node.js, Express.js, React.js, Google Earth Engine (Python API), Tailwind CSS
 
 - **Links:**
-  - 🌐 [Live Demo](https://lnkd.in/e8KCN5vQ)
+  - 🌐 [Live Website](https://project-ultron-liard.vercel.app)
   - 🎥 [Demo Video](https://lnkd.in/eJ4XEzgb)
   - 🛠️ [GitHub Repository](https://github.com/ayush-jadaun/ProjectULTRON)
 
