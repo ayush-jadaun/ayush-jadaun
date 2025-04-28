@@ -246,6 +246,123 @@ A modern, scalable implementation of Tic-Tac-Toe in C++ showcasing advanced algo
 
 
 </details>
+
+<details>
+<summary><b> 🧠 ChessMind — AI-Powered Chess Engine with Position Evaluation</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/ChessEngine/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark" alt="ChessMind Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,pygame" alt="ChessMind Tech Stack"/>
+</div>
+
+## 🧠 ChessMind — AI-Powered Chess Game with Position Evaluation
+A sophisticated chess implementation featuring real-time machine learning-based position analysis and a professional graphical interface.
+
+- **Key Features & Design:**
+  - 🎮 **Interactive Gameplay:** Fully functional chess engine with legal move validation, pawn promotion, and intuitive controls.
+  - 🧠 **AI Position Analysis:** Real-time board evaluation using RandomForest machine learning model trained on professional games.
+  - 📊 **Visual Advantage Bar:** Dynamic visualization of position strength with gradient-based advantage representation.
+  - 🎨 **Professional UI:** Clean, modern interface with responsive design, hover effects, and visual feedback mechanisms.
+  - 🧩 **Modular Architecture:** Well-structured codebase with separate modules for game logic, AI engine, and interface components.
+  
+- **Tech Stack:** Python, Pygame, Python-Chess, Scikit-Learn, NumPy
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/ChessEngine) | [Documentation](https://github.com/ayush-jadaun/ChessEngine#readme)
+</details>
+
+<details>
+<summary><b> 📚 LibSystem — Comprehensive C++ Library Management Solution</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/LibraryManagement/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="LibSystem Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,qt,bash" alt="LibSystem Tech Stack"/>
+</div>
+
+## 📚 LibSystem — Comprehensive C++ Library Management Solution
+A robust library management system built in C++ featuring efficient book tracking, borrower management, and persistent data storage with optimized lookup algorithms.
+
+- **Key Features & Design:**
+  - 🏛️ **Complete Library Workflows:** Integrated borrowing, returning, and cataloging operations with intuitive command-line interface.
+  - 🔍 **Optimized Data Retrieval:** Implements hash table (unordered map) for O(1) constant-time book lookups by ID and title.
+  - 🔐 **Administrative Controls:** Secure admin panel with password protection for inventory management and system configurations.
+  - 💾 **Persistent Storage:** File I/O operations for data preservation between sessions with pipe-delimited format for efficient parsing.
+  - 🧩 **Modular Architecture:** Object-oriented design with specialized classes for books, records, and student management.
+  
+- **Tech Stack:** C++, STL Containers, File I/O, Hash-Based Data Structures
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/LibraryManagement) | [Documentation](https://github.com/ayush-jadaun/LibraryManagement#readme)
+</details>
+
+<details>
+<summary><b> ♟️ ChessBackEnd — Real-Time Chess Server Implementation</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/chessBackEnd/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="ChessBackEnd Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,socketio,html" alt="ChessBackEnd Tech Stack"/>
+</div>
+
+
+## ♟️ ChessBackEnd — Real-Time Chess Server Implementation
+A robust backend service powering interactive chess applications with real-time gameplay, move validation, and seamless player communication.
+
+- **Key Features & Design:**
+  - 🔄 **Real-time Communication:** Socket.IO implementation enabling instant move updates and game state synchronization between players.
+  - ⚙️ **Professional Game Logic:** Leverages chess.js for comprehensive rule enforcement, position validation, and game termination detection.
+  - 🖥️ **Server-Side Rendering:** EJS templating for dynamic view generation, creating a cohesive integration between game logic and UI.
+  - 📱 **API Architecture:** RESTful design principles with Express for game management operations and player interactions.
+  - 🛠️ **Developer-Optimized:** Configured with nodemon for rapid development cycles and efficient debugging processes.
+  
+- **Tech Stack:** Node.js, Express, Socket.IO, chess.js, EJS
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/chessBackEnd) | [Documentation](https://github.com/ayush-jadaun/chessBackEnd#readme)
+</details>
+
+<details>
+<summary><b> 🤖 DoodleBot — Ground Pattern Identification & Drawing System</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/Doodlebot/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="DoodleBot Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=python,opencv,arduino,cpp,raspberrypi" alt="DoodleBot Tech Stack"/>
+</div>
+
+## 🤖 DoodleBot — Ground Pattern Identification & Drawing System
+A computer vision-powered robotic solution that identifies ground patterns and automatically traces them using precise marker control, built for MNNIT's Avishkar Tech Fest.
+
+- **Key Features & Design:**
+  - 👁️ **Real-time Pattern Recognition:** Advanced OpenCV implementation for instant pattern detection from live camera feeds or static images.
+  - 🖊️ **Dynamic Marker Control:** Precision drawing mechanism with automated motor control for accurate pattern tracing.
+  - 🧠 **ArUco-Based Positioning:** Computer vision algorithms for marker identification and orientation tracking with spatial awareness.
+  - ⚡ **Hardware Integration:** Seamless communication between Python processing system and Arduino-controlled motors via serial interface.
+  - 🔄 **Adaptable Performance:** Customizable dictionary-based pattern recognition with adjustable parameters for various environmental conditions.
+  
+- **Tech Stack:** Python, OpenCV, NumPy, Arduino, Serial Communication
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/Doodlebot) | [Documentation](https://github.com/ayush-jadaun/Doodlebot#readme)
+</details>
+
+<details>
+<summary><b> 🎨 HoliMem — Interactive Media Gallery with React</b></summary>
+<div align="center">
+  <img src="https://socialify.git.ci/ayush-jadaun/holi/image?font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark" alt="HoliMem Socialify Banner" width="640" />
+  <br/>
+  <!-- Tech Stack Icons -->
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite" alt="HoliMem Tech Stack"/>
+</div>
+
+## 🎨 HoliMem — Interactive Media Gallery with React
+A performance-optimized media gallery showcasing Holi celebration memories with rich interactive features, smooth animations, and responsive design.
+
+- **Key Features & Design:**
+  - 🖼️ **Responsive Media Grid:** Dynamically adjusting layout displaying images and auto-playing video thumbnails for optimal viewing.
+  - ❤️ **Interactive Engagement:** Like and reaction system with colorful confetti animations for an engaging user experience.
+  - 🔍 **Enhanced Media Viewing:** Modal-based media playback with fullscreen toggle and intuitive navigation controls.
+  - 📱 **Modern Sharing Options:** Integrated Web Share API for native sharing capabilities across devices and platforms.
+  - ⚡ **Performance Optimized:** Memoized components and optimized callbacks ensuring smooth interactions even with heavy media content.
+  
+- **Tech Stack:** React, Framer Motion, Canvas Confetti, React Icons
+- **Links:** [GitHub Repository](https://github.com/ayush-jadaun/holi) | [Live Demo](https://holi-black.vercel.app) | [Documentation](https://github.com/ayush-jadaun/holi#readme)
+</details>
+
 <details>
 <summary><b> 🔐 ShortyQ — Quantum-Inspired Secure URL Shortener</b></summary>
 <div align="center">
