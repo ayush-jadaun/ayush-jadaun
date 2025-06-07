@@ -30,7 +30,8 @@
 
 <img align="right" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF"/>
 
--   🔭 I'm currently building **[CampusBeacon](https://github.com/ayush-jadaun/CampusBeacon)** – aiming to revolutionize campus connectivity. (See Project Spotlights below!)
+
+-   🔭 I'm currently building **[DAIOS](https://github.com/ayush-jadaun/daios)** – aiming to revolutionize agentic Ai workflow. (See Project Spotlights below!)
 -   🌱 I'm deepening my understanding by:
     -   Building robust backends & interactive frontends (**Full Stack Development**).
     *   Applying ML models to solve real-world problems & analyzing data (**Machine Learning**).
@@ -39,6 +40,9 @@
 -   ⚡ Quick learner who adapts to new technologies with enthusiasm and precision.
 -   🧩 Love solving complex problems with elegant, efficient solutions.
 -   📫 How to reach me: **ayushjadaun6@gmail.com**
+-   🌐 My **[portfolio](ayushjadaun.vercel.app)**
+
+
 
 ## 🏆 Achievements & Certifications
 
