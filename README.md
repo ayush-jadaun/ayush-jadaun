@@ -17,10 +17,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-jadaun&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayush-jadaun Profile Views" /> </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ayush-jadaun/ayush-jadaun/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</picture>
 
 <div align="center">
   <a href="https://github.com/screw-hand/github-profile-trophy">
