@@ -39,7 +39,7 @@
 -   ⚡ Quick learner who adapts to new technologies with enthusiasm and precision.
 -   🧩 Love solving complex problems with elegant, efficient solutions.
 -   📫 How to reach me: **ayushjadaun6@gmail.com**
--   🌐 My **[portfolio](ayushjadaun.vercel.app)**
+-   🌐 My **[portfolio](https://ayushjadaun.vercel.app)**
 
 
 
