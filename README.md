@@ -11,7 +11,7 @@
 
 ## About
 
-I'm a 2nd-year ECE student at MNNIT Allahabad, currently building [Dreamvator](https://dreamvator.com) — the world's first structured pilot training platform. I architect and ship full production systems: from distributed job queues and multi-agent orchestration to mobile apps, payment infrastructure, and cloud deployments.
+I'm a 2nd-year ECE student at MNNIT Allahabad, currently building [Dreamvator](https://dreamvator.com) — aviation stealth startup. I architect and ship full production systems: from distributed job queues and multi-agent orchestration to mobile apps, payment infrastructure, and cloud deployments.
 
 My work sits at the intersection of **distributed systems**, **AI/ML**, and **systems engineering**. I care about building things that are technically rigorous and solve real problems.
 
@@ -64,10 +64,9 @@ Fully decentralized P2P distributed OS — no central orchestrator. Nodes commun
 
 ### [`Dreamvator`](https://dreamvator.com) — Structured Pilot Training Platform
 [![Website](https://img.shields.io/badge/Website-dreamvator.com-1A3C6E?style=flat-square&logo=globe&logoColor=white)](https://dreamvator.com)
+STEALTH AVIATION STARTUP
 
-Building the world's first structured pilot training platform for DGCA ground school and CPL/ATPL preparation. Architected the full production stack: multi-gateway payments (PhonePe, Razorpay, UPI AutoPay), Mux video streaming with DRM, device fingerprinting, AWS ECS Fargate with Terraform IaC. Targeting India and Europe.
 
-`React Native` `Node.js` `PostgreSQL` `AWS` `Terraform` `Supabase`
 
 ---
 
