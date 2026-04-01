@@ -18,7 +18,7 @@ My work sits at the intersection of **distributed systems**, **AI/ML**, and **sy
 - Currently: CTO & Co-Founder at Dreamvator (React Native · Node.js · AWS ECS Fargate)
 - Published: [`@psyqueue/core`](https://www.npmjs.com/package/@psyqueue/core) on npm, [`tbuddy`](https://pypi.org/project/tbuddy/) and [`marlos`](https://pypi.org/project/marlos/) on PyPI
 - Executive at **Computer Coding Club, MNNIT Allahabad**
-- Open to internship and collaboration opportunities in distributed systems, AI infrastructure, and full-stack engineering
+- Open collaboration opportunities in distributed systems, AI infrastructure, and full-stack engineering
 
 ---
 
