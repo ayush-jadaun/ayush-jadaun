@@ -16,7 +16,7 @@ I'm a 2nd-year ECE student at MNNIT Allahabad, currently building [Dreamvator](h
 My work sits at the intersection of **distributed systems**, **AI/ML**, and **systems engineering**. I care about building things that are technically rigorous and solve real problems.
 
 - Currently: CTO & Co-Founder at Dreamvator (React Native · Node.js · AWS ECS Fargate)
-- Published: [`@psyqueue/core`](https://www.npmjs.com/package/@psyqueue/core) on npm, [`tbuddy`](https://pypi.org/project/tbuddy/) and [`marlos`](https://pypi.org/project/marlos/) on PyPI
+- Published: [`@psyqueue/core`](https://www.npmjs.com/package/@psyqueue/core) on npm and [`marlos`](https://pypi.org/project/marlos/) on PyPI
 - Executive at **Computer Coding Club, MNNIT Allahabad**
 - Open to collaboration opportunities in distributed systems, AI infrastructure, and full-stack engineering
 
